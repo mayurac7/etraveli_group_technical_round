@@ -59,4 +59,4 @@ class LinkedList {
 		// calling the function
 		linkedlist.printNthFromLast(2);
 	}
-} // This code is contributed by Rajat Mishra
+}
